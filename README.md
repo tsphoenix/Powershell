@@ -104,6 +104,10 @@ https://powertoe.wordpress.com/2014/04/26/you-know-powershell-is-an-object-orien
 
 https://archive.codeplex.com/?p=psclass
 
+https://devblogs.microsoft.com/scripting/introduction-to-powershell-5-classes/
+
+https://stackoverflow.com/questions/40977472/is-it-possible-to-override-the-getter-setter-functions-in-a-powershell-5-class
+
 Execution policy:
 
 https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.security/set-executionpolicy?view=powershell-6
