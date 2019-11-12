@@ -1,5 +1,7 @@
 # Powershell
 
+https://en.wikipedia.org/wiki/PowerShell
+
 **Documentation**:
 
 https://docs.microsoft.com/en-us/powershell/
