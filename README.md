@@ -2,6 +2,8 @@
 
 https://en.wikipedia.org/wiki/PowerShell
 
+https://en.wikipedia.org/wiki/Comparison_of_command_shells
+
 **Documentation**:
 
 https://docs.microsoft.com/en-us/powershell/
